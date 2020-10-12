@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05ea9518-f255-4512-92b4-0560a343aff4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Action" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Yang\Desktop\FakerAndroid-Idea\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hLyIYrA0SogwAJRVTJhqRUVE7U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.34411085" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.faker.idea.packer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yang\Desktop\FakerIdea\src\com\faker\idea" />
+      <recent name="C:\Users\Yang\Desktop\FakerIdea\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="FakerAndroid-Idea" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="FakerAndroid-Idea" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="547e0dd4-af82-4106-89b7-467748f5825d" name="Default Changelist" comment="" />
+      <created>1599804587572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599804587572</updated>
+      <workItem from="1599804674848" duration="2814000" />
+      <workItem from="1599807735778" duration="10479000" />
+      <workItem from="1599911081229" duration="5635000" />
+      <workItem from="1600154189345" duration="857000" />
+      <workItem from="1600174507696" duration="1816000" />
+      <workItem from="1600353899354" duration="1447000" />
+      <workItem from="1602413639459" duration="828000" />
+      <workItem from="1602474583003" duration="3216000" />
+      <workItem from="1602484131878" duration="2487000" />
+      <workItem from="1602490067671" duration="525000" />
+      <workItem from="1602490609495" duration="1869000" />
+    </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1602484296533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602484296533</updated>
+    </task>
+    <task id="LOCAL-00002" summary="merged dex use a common name">
+      <created>1602488728980</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602488728980</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init" />
+    <MESSAGE value="merged dex use a common name" />
+    <option name="LAST_COMMIT_MESSAGE" value="merged dex use a common name" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="182" key="#Project_Structure" timestamp="1599806269231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="182" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1599806269231" />
+    <state x="714" y="362" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1599812215591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="362" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599812215591" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1599816452705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599816452705" />
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599805849420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599805849420" />
+    <state x="526" y="120" key="CommitChangelistDialog2" timestamp="1602495761429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="526" y="120" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602495761429" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1602482724980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602482724980" />
+    <state width="1877" height="444" key="GridCell.Tab.0.bottom" timestamp="1599817135218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="444" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599817135218" />
+    <state width="1877" height="444" key="GridCell.Tab.0.center" timestamp="1599817135218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="444" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599817135218" />
+    <state width="1877" height="444" key="GridCell.Tab.0.left" timestamp="1599817135218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="444" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599817135218" />
+    <state width="1877" height="444" key="GridCell.Tab.0.right" timestamp="1599817135218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="444" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599817135218" />
+    <state width="1877" height="444" key="GridCell.Tab.1.bottom" timestamp="1599817135219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="444" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599817135219" />
+    <state width="1877" height="444" key="GridCell.Tab.1.center" timestamp="1599817135218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="444" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599817135218" />
+    <state width="1877" height="444" key="GridCell.Tab.1.left" timestamp="1599817135218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="444" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599817135218" />
+    <state width="1877" height="444" key="GridCell.Tab.1.right" timestamp="1599817135218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="444" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599817135218" />
+    <state x="600" y="224" key="NewModule_or_Project.wizard" timestamp="1602483515407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="600" y="224" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1602483515407" />
+    <state x="681" y="261" width="540" height="524" key="StructurePopup" timestamp="1599815932407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1599815932407" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1602488730406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602488730406" />
+    <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1602490625163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602490625163" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599811832065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599811832065" />
+  </component>
+</project>
