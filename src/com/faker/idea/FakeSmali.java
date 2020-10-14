@@ -48,8 +48,9 @@ public class FakeSmali extends AnAction {
         public void run(@NotNull ProgressIndicator progressIndicator) {
 
             String projectPath = project.getBasePath();
-            File file = new File(projectPath,"game");
+            File file = new File(projectPath,"app");
             File srcMain = new File(file,"src\\main");
+            File javaSrcMain = new File(srcMain,"java");
             File smalis = new File(srcMain,"smalis");
             File assets = new File(srcMain,"assets");
             File apktoolYaml = new File(srcMain,"apktool.yml");
@@ -91,7 +92,7 @@ public class FakeSmali extends AnAction {
                         log(logFile,"building dex:"+dexFile.getName(),true);
                         progressIndicator.setText("building dex:"+dexFile.getName());
 
-                        SmaliBuilder.build(extFile,dexFile,targetSdkVersion);
+                        MSmaliBuilder.build(extFile,dexFile,targetSdkVersion,javaSrcMain);
                         index++;
                         try {
                             packer.addFile(dexFile.getName(),dexFile);
